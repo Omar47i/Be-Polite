@@ -1,0 +1,2050 @@
+fileFormatVersion: 2
+guid: 6bcc2df44148ac846ace366d7ed7a462
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: doctor_who_sprite_sheet_by_kat1004-d4esepx
+    21300002: doctor_who_sprite_sheet_by_kat1004-d4esepx_0
+    21300004: doctor_who_sprite_sheet_by_kat1004-d4esepx_1
+    21300006: doctor_who_sprite_sheet_by_kat1004-d4esepx_2
+    21300008: doctor_who_sprite_sheet_by_kat1004-d4esepx_3
+    21300010: doctor_who_sprite_sheet_by_kat1004-d4esepx_4
+    21300012: doctor_who_sprite_sheet_by_kat1004-d4esepx_5
+    21300014: doctor_who_sprite_sheet_by_kat1004-d4esepx_6
+    21300016: doctor_who_sprite_sheet_by_kat1004-d4esepx_7
+    21300018: doctor_who_sprite_sheet_by_kat1004-d4esepx_8
+    21300020: doctor_who_sprite_sheet_by_kat1004-d4esepx_9
+    21300022: doctor_who_sprite_sheet_by_kat1004-d4esepx_10
+    21300024: doctor_who_sprite_sheet_by_kat1004-d4esepx_11
+    21300026: doctor_who_sprite_sheet_by_kat1004-d4esepx_12
+    21300028: doctor_who_sprite_sheet_by_kat1004-d4esepx_13
+    21300030: doctor_who_sprite_sheet_by_kat1004-d4esepx_14
+    21300032: doctor_who_sprite_sheet_by_kat1004-d4esepx_15
+    21300034: doctor_who_sprite_sheet_by_kat1004-d4esepx_16
+    21300036: doctor_who_sprite_sheet_by_kat1004-d4esepx_17
+    21300038: doctor_who_sprite_sheet_by_kat1004-d4esepx_18
+    21300040: doctor_who_sprite_sheet_by_kat1004-d4esepx_19
+    21300042: doctor_who_sprite_sheet_by_kat1004-d4esepx_20
+    21300044: doctor_who_sprite_sheet_by_kat1004-d4esepx_21
+    21300046: doctor_who_sprite_sheet_by_kat1004-d4esepx_22
+    21300048: doctor_who_sprite_sheet_by_kat1004-d4esepx_23
+    21300050: doctor_who_sprite_sheet_by_kat1004-d4esepx_24
+    21300052: doctor_who_sprite_sheet_by_kat1004-d4esepx_25
+    21300054: doctor_who_sprite_sheet_by_kat1004-d4esepx_26
+    21300056: doctor_who_sprite_sheet_by_kat1004-d4esepx_27
+    21300058: doctor_who_sprite_sheet_by_kat1004-d4esepx_28
+    21300060: doctor_who_sprite_sheet_by_kat1004-d4esepx_29
+    21300062: doctor_who_sprite_sheet_by_kat1004-d4esepx_30
+    21300064: doctor_who_sprite_sheet_by_kat1004-d4esepx_31
+    21300066: doctor_who_sprite_sheet_by_kat1004-d4esepx_32
+    21300068: doctor_who_sprite_sheet_by_kat1004-d4esepx_33
+    21300070: doctor_who_sprite_sheet_by_kat1004-d4esepx_34
+    21300072: doctor_who_sprite_sheet_by_kat1004-d4esepx_35
+    21300074: doctor_who_sprite_sheet_by_kat1004-d4esepx_36
+    21300076: doctor_who_sprite_sheet_by_kat1004-d4esepx_37
+    21300078: doctor_who_sprite_sheet_by_kat1004-d4esepx_38
+    21300080: doctor_who_sprite_sheet_by_kat1004-d4esepx_39
+    21300082: doctor_who_sprite_sheet_by_kat1004-d4esepx_40
+    21300084: doctor_who_sprite_sheet_by_kat1004-d4esepx_41
+    21300086: doctor_who_sprite_sheet_by_kat1004-d4esepx_42
+    21300088: doctor_who_sprite_sheet_by_kat1004-d4esepx_43
+    21300090: doctor_who_sprite_sheet_by_kat1004-d4esepx_44
+    21300092: doctor_who_sprite_sheet_by_kat1004-d4esepx_45
+    21300094: doctor_who_sprite_sheet_by_kat1004-d4esepx_46
+    21300096: doctor_who_sprite_sheet_by_kat1004-d4esepx_47
+    21300098: doctor_who_sprite_sheet_by_kat1004-d4esepx_48
+    21300100: doctor_who_sprite_sheet_by_kat1004-d4esepx_49
+    21300102: doctor_who_sprite_sheet_by_kat1004-d4esepx_50
+    21300104: doctor_who_sprite_sheet_by_kat1004-d4esepx_51
+    21300106: doctor_who_sprite_sheet_by_kat1004-d4esepx_52
+    21300108: doctor_who_sprite_sheet_by_kat1004-d4esepx_53
+    21300110: doctor_who_sprite_sheet_by_kat1004-d4esepx_54
+    21300112: doctor_who_sprite_sheet_by_kat1004-d4esepx_55
+    21300114: doctor_who_sprite_sheet_by_kat1004-d4esepx_56
+    21300116: doctor_who_sprite_sheet_by_kat1004-d4esepx_57
+    21300118: doctor_who_sprite_sheet_by_kat1004-d4esepx_58
+    21300120: doctor_who_sprite_sheet_by_kat1004-d4esepx_59
+    21300122: doctor_who_sprite_sheet_by_kat1004-d4esepx_60
+    21300124: doctor_who_sprite_sheet_by_kat1004-d4esepx_61
+    21300126: doctor_who_sprite_sheet_by_kat1004-d4esepx_62
+    21300128: doctor_who_sprite_sheet_by_kat1004-d4esepx_63
+    21300130: doctor_who_sprite_sheet_by_kat1004-d4esepx_64
+    21300132: doctor_who_sprite_sheet_by_kat1004-d4esepx_65
+    21300134: doctor_who_sprite_sheet_by_kat1004-d4esepx_66
+    21300136: doctor_who_sprite_sheet_by_kat1004-d4esepx_67
+    21300138: doctor_who_sprite_sheet_by_kat1004-d4esepx_68
+    21300140: doctor_who_sprite_sheet_by_kat1004-d4esepx_69
+    21300142: doctor_who_sprite_sheet_by_kat1004-d4esepx_70
+    21300144: doctor_who_sprite_sheet_by_kat1004-d4esepx_71
+    21300146: doctor_who_sprite_sheet_by_kat1004-d4esepx_72
+    21300148: doctor_who_sprite_sheet_by_kat1004-d4esepx_73
+    21300150: doctor_who_sprite_sheet_by_kat1004-d4esepx_74
+    21300152: doctor_who_sprite_sheet_by_kat1004-d4esepx_75
+    21300154: doctor_who_sprite_sheet_by_kat1004-d4esepx_76
+    21300156: doctor_who_sprite_sheet_by_kat1004-d4esepx_77
+    21300158: doctor_who_sprite_sheet_by_kat1004-d4esepx_78
+    21300160: doctor_who_sprite_sheet_by_kat1004-d4esepx_79
+    21300162: doctor_who_sprite_sheet_by_kat1004-d4esepx_80
+    21300164: doctor_who_sprite_sheet_by_kat1004-d4esepx_81
+    21300166: doctor_who_sprite_sheet_by_kat1004-d4esepx_82
+    21300168: doctor_who_sprite_sheet_by_kat1004-d4esepx_83
+    21300170: doctor_who_sprite_sheet_by_kat1004-d4esepx_84
+    21300172: doctor_who_sprite_sheet_by_kat1004-d4esepx_85
+    21300174: doctor_who_sprite_sheet_by_kat1004-d4esepx_86
+    21300176: doctor_who_sprite_sheet_by_kat1004-d4esepx_87
+    21300178: doctor_who_sprite_sheet_by_kat1004-d4esepx_88
+    21300180: doctor_who_sprite_sheet_by_kat1004-d4esepx_89
+    21300182: doctor_who_sprite_sheet_by_kat1004-d4esepx_90
+    21300184: doctor_who_sprite_sheet_by_kat1004-d4esepx_91
+    21300186: doctor_who_sprite_sheet_by_kat1004-d4esepx_92
+    21300188: doctor_who_sprite_sheet_by_kat1004-d4esepx_93
+    21300190: doctor_who_sprite_sheet_by_kat1004-d4esepx_94
+    21300192: doctor_who_sprite_sheet_by_kat1004-d4esepx_95
+    21300194: doctor_who_sprite_sheet_by_kat1004-d4esepx_96
+    21300196: doctor_who_sprite_sheet_by_kat1004-d4esepx_97
+    21300198: doctor_who_sprite_sheet_by_kat1004-d4esepx_98
+    21300200: doctor_who_sprite_sheet_by_kat1004-d4esepx_99
+    21300202: doctor_who_sprite_sheet_by_kat1004-d4esepx_100
+    21300204: doctor_who_sprite_sheet_by_kat1004-d4esepx_101
+    21300206: doctor_who_sprite_sheet_by_kat1004-d4esepx_102
+    21300208: doctor_who_sprite_sheet_by_kat1004-d4esepx_103
+    21300210: doctor_who_sprite_sheet_by_kat1004-d4esepx_104
+    21300212: doctor_who_sprite_sheet_by_kat1004-d4esepx_105
+    21300214: doctor_who_sprite_sheet_by_kat1004-d4esepx_106
+    21300216: doctor_who_sprite_sheet_by_kat1004-d4esepx_107
+    21300218: doctor_who_sprite_sheet_by_kat1004-d4esepx_108
+    21300220: doctor_who_sprite_sheet_by_kat1004-d4esepx_109
+    21300222: doctor_who_sprite_sheet_by_kat1004-d4esepx_110
+    21300224: doctor_who_sprite_sheet_by_kat1004-d4esepx_111
+    21300226: doctor_who_sprite_sheet_by_kat1004-d4esepx_112
+    21300228: doctor_who_sprite_sheet_by_kat1004-d4esepx_113
+    21300230: doctor_who_sprite_sheet_by_kat1004-d4esepx_114
+    21300232: doctor_who_sprite_sheet_by_kat1004-d4esepx_115
+    21300234: doctor_who_sprite_sheet_by_kat1004-d4esepx_116
+    21300236: doctor_who_sprite_sheet_by_kat1004-d4esepx_117
+    21300238: doctor_who_sprite_sheet_by_kat1004-d4esepx_118
+    21300240: doctor_who_sprite_sheet_by_kat1004-d4esepx_119
+    21300242: doctor_who_sprite_sheet_by_kat1004-d4esepx_120
+    21300244: doctor_who_sprite_sheet_by_kat1004-d4esepx_121
+    21300246: walkRight1
+    21300248: walkRight2
+    21300250: walkRight3
+    21300252: walkDown1
+    21300254: walkDown2
+    21300256: walkDown3
+    21300258: walkUp1
+    21300260: walkUp2
+    21300262: walkUp3
+    21300264: walkLeft1
+    21300266: walkLeft2
+    21300268: walkLeft3
+    21300270: doctor_who_sprite_sheet_by_kat1004-d4esepx_134
+    21300272: doctor_who_sprite_sheet_by_kat1004-d4esepx_135
+    21300274: doctor_who_sprite_sheet_by_kat1004-d4esepx_136
+    21300276: doctor_who_sprite_sheet_by_kat1004-d4esepx_137
+    21300278: doctor_who_sprite_sheet_by_kat1004-d4esepx_138
+    21300280: doctor_who_sprite_sheet_by_kat1004-d4esepx_139
+    21300282: doctor_who_sprite_sheet_by_kat1004-d4esepx_140
+    21300284: doctor_who_sprite_sheet_by_kat1004-d4esepx_141
+    21300286: doctor_who_sprite_sheet_by_kat1004-d4esepx_142
+    21300288: doctor_who_sprite_sheet_by_kat1004-d4esepx_143
+    21300290: doctor_who_sprite_sheet_by_kat1004-d4esepx_144
+    21300292: doctor_who_sprite_sheet_by_kat1004-d4esepx_145
+    21300294: walkRight1
+    21300296: walkRight2
+    21300298: walkRight3
+    21300300: walkDown1
+    21300302: walkDown2
+    21300304: walkDown3
+    21300306: walkUp1
+    21300308: walkUp2
+    21300310: walkUp3
+    21300312: walkLeft1
+    21300314: walkLeft2
+    21300316: walkLeft3
+    21300318: doctor_who_sprite_sheet_by_kat1004-d4esepx_158
+    21300320: doctor_who_sprite_sheet_by_kat1004-d4esepx_159
+    21300322: doctor_who_sprite_sheet_by_kat1004-d4esepx_160
+    21300324: doctor_who_sprite_sheet_by_kat1004-d4esepx_161
+    21300326: doctor_who_sprite_sheet_by_kat1004-d4esepx_162
+    21300328: doctor_who_sprite_sheet_by_kat1004-d4esepx_163
+    21300330: doctor_who_sprite_sheet_by_kat1004-d4esepx_164
+    21300332: doctor_who_sprite_sheet_by_kat1004-d4esepx_165
+    21300334: doctor_who_sprite_sheet_by_kat1004-d4esepx_166
+    21300336: doctor_who_sprite_sheet_by_kat1004-d4esepx_167
+    21300338: doctor_who_sprite_sheet_by_kat1004-d4esepx_168
+    21300340: doctor_who_sprite_sheet_by_kat1004-d4esepx_169
+    21300342: doctor_who_sprite_sheet_by_kat1004-d4esepx_170
+    21300344: doctor_who_sprite_sheet_by_kat1004-d4esepx_171
+    21300346: doctor_who_sprite_sheet_by_kat1004-d4esepx_172
+    21300348: doctor_who_sprite_sheet_by_kat1004-d4esepx_173
+    21300350: doctor_who_sprite_sheet_by_kat1004-d4esepx_174
+    21300352: doctor_who_sprite_sheet_by_kat1004-d4esepx_175
+    21300354: doctor_who_sprite_sheet_by_kat1004-d4esepx_176
+    21300356: doctor_who_sprite_sheet_by_kat1004-d4esepx_177
+    21300358: doctor_who_sprite_sheet_by_kat1004-d4esepx_178
+    21300360: doctor_who_sprite_sheet_by_kat1004-d4esepx_179
+    21300362: doctor_who_sprite_sheet_by_kat1004-d4esepx_180
+    21300364: doctor_who_sprite_sheet_by_kat1004-d4esepx_181
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 435
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 435
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 435
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 435
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 435
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 435
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 435
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 435
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 436
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 436
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 436
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 437
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 437
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 437
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 437
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 437
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 437
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 436
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 436
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_19
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 436
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 397
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 397
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 397
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 397
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 397
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 397
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 397
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 397
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_28
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 395
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 395
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 395
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 396
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 396
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 396
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 396
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_35
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 396
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 396
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 395
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_38
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 395
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_39
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 395
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 359
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 359
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 359
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 359
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 359
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 359
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 359
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 359
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 388
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_49
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 379
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_50
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 377
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 379
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 351
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_53
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 351
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 378
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 353
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_56
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_57
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 382
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_58
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 353
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 354
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 354
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_61
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 354
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_62
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 355
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 319
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_64
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 319
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 320
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_67
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 320
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_68
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 320
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 320
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 320
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_71
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 320
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 319
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 319
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_74
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 319
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_75
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 314
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_76
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 314
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_77
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 316
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_78
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 316
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_79
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 316
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_80
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 309
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_81
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 309
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_82
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 309
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_83
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 309
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_84
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 278
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 278
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 278
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_87
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_88
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 279
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 279
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_90
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 279
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 279
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_92
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 279
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 278
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_94
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 278
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_95
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 278
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 271
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 271
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_98
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 270
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_99
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 270
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_100
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 270
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_101
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 270
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_102
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 270
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_103
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 267
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_104
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 267
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_105
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 267
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_106
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 234
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_107
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 234
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_108
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 234
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_109
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 235
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_110
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 235
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 235
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_112
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 235
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_113
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 235
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_114
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 235
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_115
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 235
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_116
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 235
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_117
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 235
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_118
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 251
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_119
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 249
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_120
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 251
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_121
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 254
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkRight1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 193
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkRight2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 193
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkRight3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 193
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkDown1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 194
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkDown2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 194
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkDown3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 194
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkUp1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 194
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkUp2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 194
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkUp3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 194
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkLeft1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 193
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkLeft2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 193
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkLeft3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 193
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_134
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 149
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_135
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 149
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_136
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_137
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 150
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_138
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 150
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_139
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 150
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_140
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 150
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_141
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_142
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 150
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_143
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 150
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_144
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 150
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkRight1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkRight2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkRight3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 108
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkDown1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 109
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkDown2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 109
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkDown3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 109
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkUp1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 109
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkUp2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 109
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkUp3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 109
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkLeft1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 108
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkLeft2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 108
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkLeft3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 108
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_158
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_159
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 66
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_161
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 67
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_162
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_163
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 67
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_164
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 67
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_165
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 67
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_166
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_167
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 66
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_168
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 66
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_169
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 66
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_170
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 21
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_171
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_172
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 21
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 22
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_174
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 22
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_175
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 22
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_176
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 22
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_177
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 22
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_178
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 22
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_179
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 21
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_180
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 21
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doctor_who_sprite_sheet_by_kat1004-d4esepx_181
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 21
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

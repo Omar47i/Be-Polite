@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Be Polite.CSharp", "Be Polite.CSharp.csproj", "{AF645531-50CD-3C3E-1267-3FD5C7FD80AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Be Polite.CSharp.Editor", "Be Polite.CSharp.Editor.csproj", "{02EDF579-9681-0352-F7B1-0A290F529512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF645531-50CD-3C3E-1267-3FD5C7FD80AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF645531-50CD-3C3E-1267-3FD5C7FD80AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF645531-50CD-3C3E-1267-3FD5C7FD80AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF645531-50CD-3C3E-1267-3FD5C7FD80AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EDF579-9681-0352-F7B1-0A290F529512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EDF579-9681-0352-F7B1-0A290F529512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EDF579-9681-0352-F7B1-0A290F529512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EDF579-9681-0352-F7B1-0A290F529512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
